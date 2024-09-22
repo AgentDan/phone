@@ -34,7 +34,7 @@ const V2 = styled.video`
   width: 60%;
   height: 1auto;
 
-  z-index: 1;
+  z-index: 3;
 
   @media screen and (max-width: 30em) {
     width: 100%;
